@@ -282,7 +282,7 @@ Make sure you're running from the project root folder where `diabetes.csv` is lo
 
 ## Credits
 
-**Dataset**: Pima Indians Diabetes Dataset  
+**Dataset**: [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)  
 **Libraries**: pandas, matplotlib, seaborn, numpy
 
 
