@@ -1,14 +1,8 @@
 """
 Diabetes Data Visualization - Main Entry Point
 
-This is the main script that runs the complete diabetes data analysis
-and generates all visualizations. It demonstrates how to use the
-analysis modules in a cohesive workflow.
-
 Usage:
     python main.py
-
-Author: Diabetes Analysis Team
 """
 
 # Import all analysis modules

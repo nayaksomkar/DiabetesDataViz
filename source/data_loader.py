@@ -1,10 +1,5 @@
 """
 Data Loading Module for Diabetes Dataset
-
-This module handles loading and preprocessing the diabetes dataset.
-It provides utilities for reading CSV files and preparing data for analysis.
-
-Author: Diabetes Analysis Team
 """
 
 import pandas as pd

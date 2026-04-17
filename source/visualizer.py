@@ -1,11 +1,5 @@
 """
 Visualization Module for Diabetes Data Analysis
-
-This module provides comprehensive visualization functions for analyzing
-diabetes patient data. It creates various charts and graphs to help understand
-patterns and relationships in the data.
-
-Author: Diabetes Analysis Team
 """
 
 import pandas as pd

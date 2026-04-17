@@ -1,11 +1,5 @@
 """
 Statistical Analysis Module for Diabetes Data
-
-This module provides statistical analysis functions for exploring
-relationships and patterns in diabetes patient data. It includes
-correlation analysis, risk factor identification, and summary statistics.
-
-Author: Diabetes Analysis Team
 """
 
 import pandas as pd

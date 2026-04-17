@@ -140,8 +140,7 @@ The program will:
 1. Load the patient data
 2. Analyze correlations between health factors
 3. Compare diabetic vs non-diabetic patients
-4. Ask if you want to create charts
-5. Ask if you want to save a written report
+4. Generate charts and save them as PNG files
 
 ---
 
@@ -195,7 +194,7 @@ DiabetesDataViz/
 ├── diabetes.csv               # Patient data
 ├── diabetes_ORG.csv           # Original data (backup)
 │
-└── visualizations/           # Created when you run (charts appear here)
+└── *.png                      # Generated visualization charts
 ```
 
 ---
