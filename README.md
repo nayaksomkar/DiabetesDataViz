@@ -282,13 +282,7 @@ Make sure you're running from the project root folder where `diabetes.csv` is lo
 
 ## Credits
 
-- **Dataset**: Pima Indians Diabetes Dataset (public medical dataset)
-- **Libraries**: pandas, matplotlib, seaborn, numpy
+**Dataset**: Pima Indians Diabetes Dataset  
+**Libraries**: pandas, matplotlib, seaborn, numpy
 
----
 
-<div align="center">
-
-**Made with Python for understanding diabetes through data**
-
-</div>
